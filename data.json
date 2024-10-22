@@ -1,0 +1,551 @@
+{
+    "sections": [
+      {
+        "sectionTitle": "General Knowledge",
+        "questions": [
+          {
+            "questionType": "mcq",
+            "question": "What is the tallest mountain in the world?",
+            "options": ["Mount Everest", "K2", "Kangchenjunga", "Lhotse"],
+            "answer": "Mount Everest"
+          },
+          {
+            "questionType": "text",
+            "question": "What is the capital of Italy?",
+            "answer": "Rome"
+          },
+          {
+            "questionType": "number",
+            "question": "How many continents are there?",
+            "answer": 7
+          },
+          {
+            "questionType": "mcq",
+            "question": "Which ocean is the largest?",
+            "options": ["Atlantic", "Indian", "Pacific", "Arctic"],
+            "answer": "Pacific"
+          },
+          {
+            "questionType": "text",
+            "question": "Who wrote 'Romeo and Juliet'?",
+            "answer": "William Shakespeare"
+          },
+          {
+            "questionType": "number",
+            "question": "In what year did the Titanic sink?",
+            "answer": 1912
+          },
+          {
+            "questionType": "mcq",
+            "question": "What is the smallest country in the world?",
+            "options": ["Monaco", "Nauru", "Vatican City", "San Marino"],
+            "answer": "Vatican City"
+          },
+          {
+            "questionType": "text",
+            "question": "What is the longest river in the world?",
+            "answer": "Nile"
+          },
+          {
+            "questionType": "number",
+            "question": "How many planets are in the Solar System?",
+            "answer": 8
+          },
+          {
+            "questionType": "mcq",
+            "question": "Which country is known as the Land of the Rising Sun?",
+            "options": ["China", "Japan", "South Korea", "Thailand"],
+            "answer": "Japan"
+          },
+          {
+            "questionType": "bool",
+            "question": "The Great Wall of China is visible from space.",
+            "options":["True","False"],
+            "answer": "false"
+          }
+        ]
+      },
+      {
+        "sectionTitle": "Science",
+        "questions": [
+          {
+            "questionType": "mcq",
+            "question": "What is the chemical symbol for water?",
+            "options": ["H2O", "CO2", "O2", "NaCl"],
+            "answer": "H2O"
+          },
+          {
+            "questionType": "bool",
+            "question": "Light travels faster than sound.",
+            "options":["True","False"],
+            "answer": "true"
+          },
+          {
+            "questionType": "text",
+            "question": "What force keeps us on the ground?",
+            "answer": "Gravity"
+          },
+          {
+            "questionType": "number",
+            "question": "At what temperature (Celsius) does water boil?",
+            "answer": 100
+          },
+          {
+            "questionType": "mcq",
+            "question": "What is the hardest natural substance on Earth?",
+            "options": ["Iron", "Diamond", "Quartz", "Granite"],
+            "answer": "Diamond"
+          },
+          {
+            "questionType": "text",
+            "question": "What is the largest planet in our Solar System?",
+            "answer": "Jupiter"
+          },
+          {
+            "questionType": "number",
+            "question": "How many elements are in the periodic table?",
+            "answer": 118
+          },
+          {
+            "questionType": "mcq",
+            "question": "What is the human body's largest organ?",
+            "options": ["Heart", "Skin", "Liver", "Brain"],
+            "answer": "Skin"
+          },
+          {
+            "questionType": "text",
+            "question": "What gas do plants absorb during photosynthesis?",
+            "answer": "Carbon Dioxide"
+          },
+          {
+            "questionType": "number",
+            "question": "How long does Earth take to orbit the Sun (in days)?",
+            "answer": 365
+          },
+          {
+            "questionType": "mcq",
+            "question": "Which vitamin is produced when the skin is exposed to sunlight?",
+            "options": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"],
+            "answer": "Vitamin D"
+          }
+        ]
+      },
+      {
+        "sectionTitle": "Mathematics",
+        "questions": [
+          {
+            "questionType": "bool",
+            "question": "A circle has no sides.",
+            "options":["True","False"],
+            "answer": "true"
+          },
+          {
+            "questionType": "mcq",
+            "question": "What is the value of Pi (approximate)?",
+            "options": ["2.14", "3.14", "4.14", "5.14"],
+            "answer": "3.14"
+          },
+          {
+            "questionType": "text",
+            "question": "What is the term for a shape with three sides?",
+            "answer": "Triangle"
+          },
+          {
+            "questionType": "number",
+            "question": "What is the square root of 64?",
+            "answer": 8
+          },
+          {
+            "questionType": "mcq",
+            "question": "What is 50% of 200?",
+            "options": ["100", "150", "200", "250"],
+            "answer": "100"
+          },
+          {
+            "questionType": "text",
+            "question": "What is the next prime number after 7?",
+            "answer": "11"
+          },
+          {
+            "questionType": "number",
+            "question": "How many degrees are in a right angle?",
+            "answer": 90
+          },
+          {
+            "questionType": "mcq",
+            "question": "What is the sum of angles in a triangle?",
+            "options": ["180", "360", "270", "90"],
+            "answer": "180"
+          },
+          {
+            "questionType": "text",
+            "question": "What is the term for a 10-sided polygon?",
+            "answer": "Decagon"
+          },
+          {
+            "questionType": "number",
+            "question": "If a rectangle has a width of 4cm and a length of 10cm, what is its area (in cm\u00b2)?",
+            "answer": 40
+          },
+          {
+            "questionType": "mcq",
+            "question": "What is the value of 'x' in the equation 2x + 6 = 14?",
+            "options": ["2", "3", "4", "5"],
+            "answer": "4"
+          }
+        ]
+      },
+      {
+        "sectionTitle": "Indian History",
+        "questions": [
+          {
+            "questionType": "mcq",
+            "question": "Who was the first Emperor of the Maurya Dynasty?",
+            "options": ["Ashoka", "Chandragupta Maurya", "Harsha", "Bindusara"],
+            "answer": "Chandragupta Maurya"
+          },
+          {
+            "questionType": "text",
+            "question": "What was the capital of the Mughal Empire?",
+            "answer": "Agra"
+          },
+          {
+            "questionType": "number",
+            "question": "In what year did India gain independence?",
+            "answer": 1947
+          },
+          {
+            "questionType": "bool",
+            "question": "A circle has no sides.",
+            "options":["True","False"],
+            "answer": "true"
+          }, {
+            "questionType": "bool",
+            "question": "The Indian National Congress was founded in 1885.",
+            "options":["True","False"],
+            "answer": "true"
+          },
+          {
+            "questionType": "mcq",
+            "question": "Who was the founder of the Gupta Empire?",
+            "options": [
+              "Samudragupta",
+              "Chandragupta I",
+              "Chandragupta II",
+              "Kumaragupta"
+            ],
+            "answer": "Chandragupta I"
+          },
+          {
+            "questionType": "text",
+            "question": "Which city was the capital of the Maratha Empire?",
+            "answer": "Pune"
+          },
+          {
+            "questionType": "number",
+            "question": "In what century did the Battle of Plassey take place?",
+            "answer": 18
+          },
+          {
+            "questionType": "mcq",
+            "question": "Who was the first female ruler of Delhi Sultanate?",
+            "options": [
+              "Razia Sultana",
+              "Mumtaz Mahal",
+              "Noor Jahan",
+              "Jodha Bai"
+            ],
+            "answer": "Razia Sultana"
+          },
+          {
+            "questionType": "text",
+            "question": "What was the main language of administration under the Mughal Empire?",
+            "answer": "Persian"
+          },
+          {
+            "questionType": "number",
+            "question": "How many years did the British Raj last in India?",
+            "answer": 90
+          },
+          {
+            "questionType": "mcq",
+            "question": "Which year marked the start of the British East India Company's rule in India?",
+            "options": ["1600", "1757", "1858", "1947"],
+            "answer": "1757"
+          }
+        ]
+      },
+      {
+        "sectionTitle": "Geography",
+        "questions": [
+          {
+            "questionType": "mcq",
+            "question": "Which of the following countries is in both Europe and Asia?",
+            "options": ["Turkey", "India", "France", "Canada"],
+            "answer": "Turkey"
+          },
+          {
+            "questionType": "text",
+            "question": "The Amazon Rainforest is primarily located in",
+            "answer": "Brazil"
+          }, {
+            "questionType": "bool",
+            "question": "Australia is both a country and a continent.",
+            "options":["True","False"],
+            "answer": "true"
+          },{
+            "questionType": "number",
+            "question": "How many continents are there in the world?",
+            "answer": 7
+          },{
+            "questionType": "mcq",
+            "question": "Which is the largest freshwater lake by volume?",
+            "options": ["Lake Superior", "Lake Victoria", "Caspian Sea", "Lake Baikal"],
+            "answer": "Lake Baikal"
+          }, {
+            "questionType": "bool",
+            "question": "Greenland is the smallest island in the world.",
+            "options":["True","False"],
+            "answer": "flase"
+          },{
+            "questionType": "text",
+            "question": "The ________ is the longest mountain range in the world.",
+            "answer": "Andes"
+          },{
+            "questionType": "mcq",
+            "question": "Which desert is the largest hot desert in the world?",
+            "options": ["Gobi", "Kalahari", "Sahara", "Atacama"],
+            "answer": "Sahara"
+          },{
+            "questionType": "number",
+            "question": "How many Great Lakes are there in North America?",
+            "answer": 5
+          },{
+            "questionType": "mcq",
+            "question": "Which country has the largest population?",
+            "options": ["India", "China", "USA", "Russia"],
+            "answer": "China"
+          },{
+            "questionType": "number",
+            "question": "How many time zones does Russia have?",
+            "answer": 11
+          }
+        ]
+      },
+      {
+        "sectionTitle": "Technology",
+        "questions": [
+          {
+            "questionType": "bool",
+            "question": "HTML stands for Hyper Text Markup Language.",
+            "options":["True","False"],
+            "answer": "true"
+      },{
+        "questionType": "number",
+        "question": "How many megabytes are there in a gigabyte?",
+        "answer": 1024
+      },{
+        "questionType": "bool",
+        "question": "JavaScript is a type of programming language used primarily for backend development.",
+        "options":["True","False"],
+        "answer": "false"
+      },{
+        "questionType": "text",
+        "question": "The first successful personal computer was the.",
+        "answer": "Apple 2"
+      },{
+        "questionType": "mcq",
+        "question": "Who is considered the father of modern computing?",
+        "options": ["Charles Babbage", "Bill Gates", "Steve Jobs", "Alan Turing"],
+        "answer": "Charles Babbage"
+      },{
+        "questionType": "bool",
+        "question": "Wi-Fi stands for Wireless Fidelity.",
+        "options":["True","False"],
+        "answer": "true"
+      },{
+        "questionType": "text",
+        "question": "The programming language created by Guido van Rossum in the 1980s is called.",
+        "answer": "Python"
+      },{
+        "questionType": "mcq",
+        "question": "Which company is known for creating the Android operating system?",
+        "options": ["Apple", "Google", "Microsoft", "Samsung"],
+        "answer": "Google"
+      },{
+        "questionType": "number",
+        "question": "n what year was the World Wide Web introduced?",
+        "answer": 1989
+      },{
+        "questionType": "mcq",
+        "question": "Which company is known for producing the PlayStation gaming console?",
+        "options":["Microsoft", "Nintendo", "Sony", "Sega"],
+        "answer":"sony"
+      },{
+        "questionType": "text",
+        "question": "he first computer virus to spread widely was called.",
+        "answer": "The Creeper Virus"
+      }
+    ]
+  },
+  {
+    "sectionTitle": "Literature",
+    "questions": [
+      {
+        "questionType": "bool",
+        "question": "William Shakespeare wrote 39 plays.",
+        "options":["True","False"],
+        "answer": "true"
+  },{
+    "questionType": "text",
+    "question": "The famous book '1984' was written by?",
+    "answer": "George Orwell"
+  },{
+    "questionType": "mcq",
+    "question": "Which of the following is a work by Jane Austen?",
+    "options": ["Pride and Prejudice", "Moby Dick", "Ulysses", "The Great Gatsby"],
+    "answer": "Pride and Prejudice"
+  },{
+    "questionType": "bool",
+    "question": "Homer wrote 'The Iliad' and 'The Odyssey'.",
+    "options":["True","False"],
+    "answer": "true"
+  },{
+    "questionType": "number",
+    "question": "How many books are in 'The Chronicles of Narnia' series?",
+    "answer": 7
+  },{
+    "questionType": "text",
+    "question": "Moby Dick' was written by",
+    "answer": "Herman Melville"
+  },{
+    "questionType": "mcq",
+    "question": "Who wrote 'The Great Gatsby'?",
+    "options":["F. Scott Fitzgerald", "Ernest Hemingway", "Mark Twain", "J.D. Salinger"],
+    "answer":"F. Scott Fitzgerald"
+  },{
+    "questionType": "number",
+    "question": "In what year was 'To Kill a Mockingbird' published?",
+    "answer": 1960
+  },{
+    "questionType": "mcq",
+    "question": "Which of the following is a dystopian novel?",
+    "options":["The Catcher in the Rye", "Brave New World", "The Scarlet Letter", "Wuthering Heights"],
+    "answer":"Brave New World"
+  },{
+    "questionType": "text",
+    "question": "The 'Harry Potter' series was written by",
+    "answer": "J.K. Rowling"
+  }
+]
+},{
+  "sectionTitle": "Sports",
+  "questions": [
+    {
+      "questionType": "bool",
+      "question": "Roger Federer has won more than 20 Grand Slam titles.",
+      "options":["True","False"],
+      "answer": "true"
+},{
+  "questionType": "text",
+  "question": "The ________ is the most popular sport in the world.",
+  "answer": "Football"
+},{
+  "questionType": "mcq",
+  "question": "Which country hosted the 2016 Summer Olympics?",
+  "options": ["Brazil", "USA", "China", "Japan"],
+  "answer": "Brazil"
+},{
+  "questionType": "bool",
+  "question": "The FIFA World Cup is held every 4 years.",
+  "options":["True","False"],
+  "answer": "true"
+},{
+  "questionType": "number",
+  "question": "How many players are on a standard soccer team on the field at once?",
+  "answer": 11
+},{
+  "questionType": "mcq",
+  "question": "Who has won the most Olympic gold medals?",
+  "options": ["Usain Bolt", "Michael Phelps", "Simone Biles", "Carl Lewis"],
+  "answer": "Michael Phelps"
+},{
+  "questionType": "text",
+  "question": "The ________ is the international competition for rugby.",
+  "answer": "Rugby World Cup"
+},{
+  "questionType": "number",
+  "question": "How many rings are there on the Olympic flag?",
+  "answer": 5
+},{
+  "questionType": "mcq",
+  "question": "Which country has won the most World Cups in football?",
+  "options": ["Brazil", "Germany", "Italy", "Argentina"],
+  "answer": "Brazil"
+},{
+  "questionType": "number",
+  "question": "n basketball, a shot from beyond the arc is worth ________ points.",
+  "answer": 3
+}
+]
+},{
+  "sectionTitle": "Music",
+  "questions": [
+    {
+      "questionType": "bool",
+      "question": "Beethoven was deaf when he composed his Ninth Symphony.",
+      "options":["True","False"],
+      "answer": "true"
+},{
+  "questionType": "text",
+  "question": "The famous band from Liverpool is called",
+  "answer": "The Beatles"
+},{
+  "questionType": "bool",
+  "question": "The violin is a woodwind instrument.",
+  "options":["True","False"],
+  "answer": "false"
+},{
+  "questionType": "number",
+  "question": "How many keys does a standard piano have?",
+  "answer": 88
+},{
+  "questionType": "mcq",
+  "question": "Who is known as the King of Pop?",
+  "options": ["Elvis Presley", "Michael Jackson", "Freddie Mercury", "Prince"],
+  "answer": "Michael Jackson"
+},{
+  "questionType": "bool",
+  "question": "The violin is a woodwind instrument.",
+  "options":["True","False"],
+  "answer": "false"
+},{
+  "questionType": "text",
+  "question": "The opera 'The Magic Flute' was composed by.",
+  "answer": "Mozart"
+},{
+  "questionType": "mcq",
+  "question": "Which musical genre originated from the African-American communities in New Orleans?",
+  "options": ["Jazz", "Rock", "Country", "Blues"],
+  "answer": "jazz"
+},{
+  "questionType": "number",
+  "question": "In what year did The Beatles release their album 'Abbey Road'?",
+  "answer": 1969
+},{
+  "questionType": "mcq",
+  "question": "Which composer is known for writing 'Symphony No. 9'?",
+  "options": ["Beethoven", "Mozart", "Bach", "Tchaikovsky"],
+  "answer": "Beethoven"
+},{
+  "questionType": "number",
+  "question": "How many strings does a standard guitar have?",
+  "answer": 6
+}
+]
+}
+
+
+
+    ]
+  }

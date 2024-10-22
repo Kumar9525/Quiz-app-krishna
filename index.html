@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Quiz App</title>
+    <link rel="stylesheet" href="style.css" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&family=Poppins:wght@400;600&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="shortcut icon" href="favicon.png" type="image/x-icon">
+  </head>
+  <body>
+    <div class="header">
+      <div class="header-img-box">
+        <img src="icon.png" alt="" />
+      </div>
+      <div class="header-text">
+        <p>Genius!</p>
+      </div>
+    </div>
+    <div class="left-text">
+      <p>Think Fast, Answer Faster!</p>
+    </div>
+    <div class="main-container">
+
+      <div id="quiz-container">
+        <div class="section" data-section="0">General Knowledge</div>
+        <div class="section" data-section="1">Science</div>
+        <div class="section" data-section="2">Mathematics</div>
+        <div class="section" data-section="3">Indian History</div>
+        <div class="section" data-section="4">Geography</div>
+        <div class="section" data-section="5">Technology</div>
+        <div class="section" data-section="6">Literature</div>
+        <div class="section" data-section="7">Sports</div>
+        <div class="section" data-section="8">Music</div>
+      </div>
+
+      <div class="title-box">
+        <div class="title-text">
+          <h1>Test Your Knowledge, Challenge Your Mind!</h1>
+        </div>
+        <div id="img-container">
+          <div class="img-box">
+            <img src="hero.png" alt="hero image not find" />
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+    <div class="main-question-container">
+      <div id="question-container" style="display: none">
+        <p id="score">Score: 0</p>
+        <div id="question"></div>
+        <div id="options"></div>
+        <button id="next-button">Next</button>
+      </div>
+      <div id="think-img">
+        <img src="thinking.gif" alt="" />
+      </div>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
